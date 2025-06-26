@@ -1,6 +1,6 @@
 # FlutterCon Geotrigger Demo
 
-A Flutter application demonstrating ArcGIS Maps SDK geotriggers for conference room navigation and interactive experiences.
+A Flutter application demonstrating ArcGIS Maps SDK geotriggers for NYC Tourism and interactive experiences.
 
 ## Setup Instructions
 
